@@ -1,4 +1,5 @@
 # Robot's Morning Routine BT
+>注意：提交Github后发现该README文件显示异常，行为树结构无法正常显示，部分加粗出现问题，建议下载查看
 
 ## 如何运行
 
